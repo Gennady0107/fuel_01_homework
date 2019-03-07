@@ -5,3 +5,4 @@ def fuel_calc(litr_in_tank, l_100km):
     """
     distance_for_refueling = litr_in_tank / l_100km * 100
     return distance_for_refueling
+
